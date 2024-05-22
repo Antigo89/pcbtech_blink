@@ -3,10 +3,8 @@
 <div id="badges" align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/Lesson%20-1%20-violet">
     <img alt="Static Badge" src="https://img.shields.io/badge/CPU%20-STM32F407VET6%20-blue">
-</div>
-Easy controller for Heating table.
-		
-
+</div>		
+Hello world for STM32 (Blink)
 <details><summary><b>Tools</b></summary>
 <div>Programmer: ST-Link V2</div>
 <div>Download: OpenOCD</div>

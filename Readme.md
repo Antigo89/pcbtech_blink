@@ -1,7 +1,7 @@
 <h2>Software "Kurs STM32 PCBtech"</h2>
 
 <div id="badges" align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Lesson%20-1%20-violet">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Lesson%20-3%20-violet">
     <img alt="Static Badge" src="https://img.shields.io/badge/CPU%20-STM32F407VET6%20-blue">
 </div>		
 Hello world for STM32 (Blink)
